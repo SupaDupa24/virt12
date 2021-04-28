@@ -1,16 +1,16 @@
 export const SITE_URL = 'https://demo.vercel.events';
 export const SITE_ORIGIN = process.env.SITE_ORIGIN || new URL(SITE_URL).origin;
-export const TWITTER_USER_NAME = 'vercel';
-export const BRAND_NAME = 'ACME';
-export const SITE_NAME_MULTILINE = ['ACME', 'Conf'];
-export const SITE_NAME = 'ACME Conf';
+export const TWITTER_USER_NAME = 'birthday';
+export const BRAND_NAME = 'birthday';
+export const SITE_NAME_MULTILINE = ['b1', 'b2'];
+export const SITE_NAME = 'birthday';
 export const META_DESCRIPTION =
-  'This is an open source demo that Next.js developers can clone, deploy, and fully customize for events. Created through collaboration of marketers, designers, and developers at Vercel.';
+  'Happy Birthday';
 export const SITE_DESCRIPTION =
-  'An interactive online experience by the community, free for everyone.';
-export const DATE = 'October 27, 2020';
-export const SHORT_DATE = 'Oct 27 - 9:00am PST';
-export const FULL_DATE = 'Oct 27th 9am Pacific Time (GMT-7)';
+  'Happy Birthday2';
+export const DATE = 'May 29, 2021';
+export const SHORT_DATE = 'May 29 - Time is TBA';
+export const FULL_DATE = 'May 29 2:00 Pacific Time (GMT-7)';
 export const TWEET_TEXT = META_DESCRIPTION;
 export const COOKIE = 'user-id';
 

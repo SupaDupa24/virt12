@@ -37,6 +37,7 @@
     "react-aria": "3.2.0",
     "react-confetti": "^6.0.1",
     "react-dom": "17.0.1",
+    "react-use": "^17.2.4",
     "sanity": "^2.2.6",
     "smoothscroll-polyfill": "0.4.4",
     "swr": "0.3.9",

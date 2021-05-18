@@ -6,7 +6,7 @@ import './Canvas.module.css';
 export const Canvas = () => {
     const { width, height } = useWindowSize()
         return (
-            <Confetti id='confetti' run={true} width={width} height={height} recycle={true} numberOfPieces={500} />
+            <Confetti id='confetti' run={true} width={width} height={2000} recycle={true} numberOfPieces={500} />
                 
         )
     }
